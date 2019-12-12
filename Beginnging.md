@@ -37,3 +37,7 @@
 [历史价格查询](http://www.lsjgcx.com)
 
 [嚓哩文库](https://www.wocali.com)
+
+[用药助手](http://drugs.dxy.cn)
+
+[Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
