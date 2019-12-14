@@ -32,6 +32,8 @@
 
 [Zoom.Quiet ](http://wiki.zoomquiet.io/)
 
+[cnfeat](https://www.cnfeat.com/)
+
 ## 资讯
 
 [爱范儿 - 让未来触手可及](https://www.ifanr.com/)
