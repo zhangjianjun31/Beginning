@@ -18,6 +18,10 @@
 
 [三秋书屋](https://www.d4j.cn)
 
+[微信读书网页版](https://weread.qq.com/)
+
+[豆瓣读书](https://book.douban.com/)
+
 ## 博客
 
 [刘未鹏 | Mind Hacks](http://mindhacks.cn)
@@ -28,15 +32,29 @@
 
 [Zoom.Quiet ](http://wiki.zoomquiet.io/)
 
-## 社区
+## 资讯
+
+[爱范儿 - 让未来触手可及](https://www.ifanr.com/)
 
 [掘金 - 一个帮助开发者成长的社区](https://juejin.im/)
 
 [少数派 - 高效工作，品质生活](https://sspai.com/)
 
+[36氪](https://36kr.com/)
+
+## 社区
+
 [知乎](https://www.zhihu.com)
 
 [哔哩哔哩动画](https://www.bilibili.com)
+
+[CSDN - 专业IT技术社区](https://www.csdn.net/)
+
+## 学堂
+
+[开智学堂](https://m.openmindclub.com/mkt)
+
+[中国大学MOOC(慕课)](https://www.icourse163.org/)
 
 ## 工具
 
