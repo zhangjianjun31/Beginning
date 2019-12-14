@@ -24,6 +24,10 @@
 
 [阳志平](https://www.yangzhiping.com)
 
+[Shell's Home](http://blog.shell909090.org/)
+
+[Zoom.Quiet ](http://wiki.zoomquiet.io/)
+
 ## 社区
 
 [知乎](https://www.zhihu.com)
