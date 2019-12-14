@@ -30,6 +30,10 @@
 
 ## 社区
 
+[掘金 - 一个帮助开发者成长的社区](https://juejin.im/)
+
+[少数派 - 高效工作，品质生活](https://sspai.com/)
+
 [知乎](https://www.zhihu.com)
 
 [哔哩哔哩动画](https://www.bilibili.com)
