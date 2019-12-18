@@ -22,6 +22,8 @@
 
 [豆瓣读书](https://book.douban.com/)
 
+[北京市公共图书馆馆藏目录](http://primo.clcn.net.cn:1701/primo_library/libweb/action/search.do?menuitem=0&fromTop=true&fromPreferences=false&fromEshelf=false&vid=CLCN)
+
 ## 博客
 
 [刘未鹏 | Mind Hacks](http://mindhacks.cn)
