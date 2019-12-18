@@ -58,7 +58,7 @@
 
 [开智学堂](https://m.openmindclub.com/mkt)
 
-[中国大学MOOC(慕课)](https://www.icourse163.org/)
+[中国大学MOOC](https://www.icourse163.org/)
 
 ## 工具
 
