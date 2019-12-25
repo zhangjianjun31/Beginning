@@ -71,3 +71,18 @@
 [用药助手](http://drugs.dxy.cn)
 
 [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
+
+[简体繁体转换](http://www.aies.cn/)
+
+## 买买买
+
+[缺书网](http://www.queshu.com)
+
+## 未分类
+
+[The First 20 Hours - Josh Kaufman - How to Learn Anything FAST](https://first20hours.com)
+
+[田英章硬笔楷书教程](http://v.youku.com/v_show/id_XMTkwNzg0MjIw.html)
+
+[管卫东GMAT逻辑单项提分班](http://www.iqiyi.com/v_19rrnn40f8.html)
+
