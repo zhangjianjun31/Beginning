@@ -62,7 +62,7 @@
 
 ## 工具
 
-[jpg转PDF](https://smallpdf.com/cn/jpg-to-pdf)
+[万能PDF](https://smallpdf.com/cn/jpg-to-pdf)
 
 [历史价格查询](http://www.lsjgcx.com)
 
