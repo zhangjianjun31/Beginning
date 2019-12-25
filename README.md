@@ -26,6 +26,8 @@
 
 ## 博客
 
+[保罗·格雷厄姆](http://paulgraham.com/)
+
 [刘未鹏 | Mind Hacks](http://mindhacks.cn)
 
 [阳志平](https://www.yangzhiping.com)
