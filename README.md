@@ -14,6 +14,12 @@
 
 [songif动图 - 动图表情包搜索](https://www.soogif.com)
 
+[unsplash - 图片搜索](https://unsplash.com/)
+
+[pixabay - 图片搜索](https://pixabay.com/zh/)
+
+[大数据导航 ](http://hao.199it.com/)
+
 ## 书
 
 [三秋书屋](https://www.d4j.cn)
@@ -42,11 +48,13 @@
 
 [爱范儿 - 让未来触手可及](https://www.ifanr.com/)    
 
-[掘金 - 一个帮助开发者成长的社区](https://juejin.im/)
+[Topbook](https://topbook.cc/overview)
 
 [少数派 - 高效工作，品质生活](https://sspai.com/)   
 
 [36氪](https://36kr.com/)
+
+[掘金 - 一个帮助开发者成长的社区](https://juejin.im/)
 
 ## 社区
 
