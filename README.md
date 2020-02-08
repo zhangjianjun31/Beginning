@@ -44,7 +44,7 @@
 
 [cnfeat](https://www.cnfeat.com/)
 
-[比尔·盖茨](https://www.gatesnotes.com/)
+[The Blog of Bill Gates](https://www.gatesnotes.com/)
 
 ## 资讯
 
