@@ -74,6 +74,8 @@
 
 ## 工具
 
+[iBrainTTS语音合成工具](https://tts.ibrainbaby.com/)
+
 [万能PDF](https://smallpdf.com/cn/jpg-to-pdf)
 
 [历史价格查询](http://www.lsjgcx.com)
