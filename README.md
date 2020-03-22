@@ -78,7 +78,7 @@
 
 [万能PDF](https://smallpdf.com/cn/jpg-to-pdf)
 
-[历史价格查询](http://www.lsjgcx.com)
+[历史价格查询](https://tool.manmanbuy.com/HistoryLowest.aspx)
 
 [嚓哩文库](https://www.wocali.com)
 
