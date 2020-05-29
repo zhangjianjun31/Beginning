@@ -8,7 +8,7 @@
 
 ## 书
 
-[三秋书屋](https://www.d4j.cn) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) | 
+[三秋书屋](https://www.sanqiu.cc/) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) | 
 
 ## 博客
 
