@@ -1,48 +1,20 @@
 ## 搜索
 
-[虫部落 - 聚合搜索](https://search.chongbuluo.com)
-
-[Magi](https://magi.com)    
-
-[秘迹搜索](https://mijisou.com)    
-
-[多吉搜索](https://www.dogedoge.com)
-
-[Lookao](https://lookao.com)
-
-[茶杯狐 - 电影资源](https://www.cupfox.com)
-
-[songif动图 - 动图表情包搜索](https://www.soogif.com)
-
-[unsplash - 图片搜索](https://unsplash.com/)
-
-[pixabay - 图片搜索](https://pixabay.com/zh/)
-
-[大数据导航 ](http://hao.199it.com/)
+| 聚合搜索 | 个性搜索 | 图片搜索 | 资源搜索 |
+| :----: | :----: | :----: | :----: |
+| [虫部落](https://search.chongbuluo.com) | [Magi](https://magi.com)  | [pixabay](https://pixabay.com/zh/) | [茶杯狐 - 电影资源](https://www.cupfox.com)|
+| [大数据导航 ](http://hao.199it.com/) | [Lookao](https://lookao.com) | [unsplash ](https://unsplash.com/)  | [北京市公共图书馆馆藏目录](http://primo.clcn.net.cn:1701/primo_library/libweb/action/search.do?menuitem=0&fromTop=true&fromPreferences=false&fromEshelf=false&vid=CLCN) |
+| | |[soogif动图表情包搜索](https://www.soogif.com) |
 
 ## 书
 
-[三秋书屋](https://www.d4j.cn)
-
-[微信读书网页版](https://weread.qq.com/)
-
-[豆瓣读书](https://book.douban.com/)
-
-[北京市公共图书馆馆藏目录](http://primo.clcn.net.cn:1701/primo_library/libweb/action/search.do?menuitem=0&fromTop=true&fromPreferences=false&fromEshelf=false&vid=CLCN)
+[三秋书屋](https://www.d4j.cn) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) | 
 
 ## 博客
 
-[保罗·格雷厄姆](http://paulgraham.com/)
+[保罗·格雷厄姆](http://paulgraham.com/) | [刘未鹏 | Mind Hacks](http://mindhacks.cn) | [阳志平](https://www.yangzhiping.com) |
 
-[刘未鹏 | Mind Hacks](http://mindhacks.cn)
-
-[阳志平](https://www.yangzhiping.com)
-
-[Shell's Home](http://blog.shell909090.org/)
-
-[Zoom.Quiet ](http://wiki.zoomquiet.io/)
-
-[cnfeat](https://www.cnfeat.com/)
+[Shell's Home](http://blog.shell909090.org/) | [Zoom.Quiet ](http://wiki.zoomquiet.io/) | [cnfeat](https://www.cnfeat.com/) 
 
 [The Blog of Bill Gates](https://www.gatesnotes.com/)
 
