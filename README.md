@@ -12,7 +12,7 @@
 
 ## 编程
 
-[XUE.CN](https://xue.cn/hub/) |  [Vitu.AI](https://vitu.ai/lab/notebook/work%2FUntitled.ipynb)
+[XUE.CN](https://xue.cn/hub/) |  [Vitu.AI](https://vitu.ai/lab/notebook/work%2FUntitled.ipynb) | [极客战记](https://codecombat.163.com/play)
 
 ## 博客
 
