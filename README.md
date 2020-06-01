@@ -10,6 +10,10 @@
 
 [三秋书屋](https://www.sanqiu.cc/) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) | 
 
+## 编程
+
+[XUE.CN](https://xue.cn/hub/) |  [Vitu.AI](https://vitu.ai/lab/notebook/work%2FUntitled.ipynb)
+
 ## 博客
 
 [保罗·格雷厄姆](http://paulgraham.com/) | [刘未鹏 | Mind Hacks](http://mindhacks.cn) | [阳志平](https://www.yangzhiping.com) |
