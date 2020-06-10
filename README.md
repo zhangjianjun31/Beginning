@@ -8,7 +8,7 @@
 
 ## 书
 
-[三秋书屋](https://www.sanqiu.cc/) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) | 
+[三秋书屋](https://www.sanqiu.cc/) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) |[定投改变命运](https://ri.firesbox.com/#/cn/?id=%e8%ad%a6%e5%91%8a)
 
 ## 编程
 
@@ -16,7 +16,7 @@
 
 ## 博客
 
-[保罗·格雷厄姆](http://paulgraham.com/) | [刘未鹏 | Mind Hacks](http://mindhacks.cn) | [阳志平](https://www.yangzhiping.com) |  [Shell's Home](http://blog.shell909090.org/) | [Zoom.Quiet ](http://wiki.zoomquiet.io/) | [cnfeat](https://www.cnfeat.com/)  | [The Blog of Bill Gates](https://www.gatesnotes.com/)
+[保罗·格雷厄姆](http://paulgraham.com/) | [刘未鹏 | Mind Hacks](http://mindhacks.cn) | [阳志平](https://www.yangzhiping.com) |  [Shell's Home](http://blog.shell909090.org/) | [Zoom.Quiet ](http://wiki.zoomquiet.io/) | [cnfeat](https://www.cnfeat.com/)  | [The Blog of Bill Gates](https://www.gatesnotes.com/)|[赵高明同学](https://zhaogaoming.com/)
 
 ## 资讯
 
@@ -24,11 +24,7 @@
 
 ## 社区
 
-[知乎](https://www.zhihu.com)
-
-[哔哩哔哩动画](https://www.bilibili.com)
-
-[CSDN - 专业IT技术社区](https://www.csdn.net/)
+[知乎](https://www.zhihu.com)|[哔哩哔哩动画](https://www.bilibili.com)|[CSDN - 专业IT技术社区](https://www.csdn.net/)|[RubyChina](https://ruby-china.org/)
 
 ## 学堂
 
