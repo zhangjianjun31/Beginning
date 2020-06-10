@@ -8,7 +8,7 @@
 
 ## 书
 
-[三秋书屋](https://www.sanqiu.cc/) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) |[定投改变命运](https://ri.firesbox.com/#/cn/?id=%e8%ad%a6%e5%91%8a)
+[三秋书屋](https://www.sanqiu.cc/) |  [微信读书](https://weread.qq.com/) | [豆瓣读书](https://book.douban.com/) |  [定投改变命运](https://ri.firesbox.com/#/cn/?id=%e8%ad%a6%e5%91%8a)  |  [新生](https://b.xinshengdaxue.com/A02.html)
 
 ## 编程
 
