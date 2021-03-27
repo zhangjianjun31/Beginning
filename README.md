@@ -2,9 +2,9 @@
 
 | 聚合搜索 | 个性搜索 | 图片搜索 | 资源搜索 |
 | :----: | :----: | :----: | :----: |
-| [虫部落-综合搜索](https://search.chongbuluo.com) | [Magi](https://magi.com)  | [Zepmeta元搜索](https://www.zapmeta.com/)  |  [pixabay](https://pixabay.com/zh/) | [茶杯狐 - 电影资源](https://www.cupfox.com)|
+| [虫部落-综合搜索](https://search.chongbuluo.com) | [Magi](https://magi.com)  |    [pixabay](https://pixabay.com/zh/) | [茶杯狐 - 电影资源](https://www.cupfox.com)|
 | [大数据导航 ](http://hao.199it.com/) | [Lookao](https://lookao.com) | [unsplash ](https://unsplash.com/)  | [北京市公共图书馆馆藏目录](http://primo.clcn.net.cn:1701/primo_library/libweb/action/search.do?menuitem=0&fromTop=true&fromPreferences=false&fromEshelf=false&vid=CLCN) |
-| | |[soogif动图表情包搜索](https://www.soogif.com) |
+| [Zepmeta元搜索](https://www.zapmeta.com/) | |[soogif动图表情包搜索](https://www.soogif.com) |
 
 ## 书
 
